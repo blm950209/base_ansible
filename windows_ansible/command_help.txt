@@ -7,5 +7,33 @@ ansible-playbook имя_файла.yml
 пинг
 ansible  -m win_ping all
 
+[файлы]
+
+firefox_msi_install установка через .msi firefox
+
+install_multiple.yml установка списка софта через chocolatey
+
+poweroff.yml выключение питания
+
+services.yml
+update_windows.yml
+chocolatey_config
+install_opera.yml
+powershell_script.yml
+uninstall_opera.yml
+user_create.yml
+command_help.txt
+install_become.yml
+install_tigervnc.yml
+reboot.yml
+update_chocolatey.yml
+win_user_raw
+defrag.yml
+install_chocolatey.yml
+update_windows_indocs.yml
+
+
+[роли]
+
 
 
