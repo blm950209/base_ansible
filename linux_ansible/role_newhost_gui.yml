@@ -1,4 +1,4 @@
 ---
 - hosts: all
   roles:
-    - vagrant_vm_up
+    - install_gui
