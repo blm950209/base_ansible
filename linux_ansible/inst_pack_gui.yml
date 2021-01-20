@@ -8,8 +8,16 @@
         name:
          - wireshark
          - krdc
-         - wireshark
-         - htop
+         - opera
+         - chromium
+         - virtualbox
+         - vagrant
+         - vlc
+         - simplescreenrecorder
+         - libreoffice
+         - remmina
+         - discord
+  
 
 
 
