@@ -12,7 +12,10 @@ ansible all -m ping
 
 [роли]
 
-role_deb_update обновление
+role_deb_update.yml обновление
+role_newhost_gui.yml обновление && установка софта
+
+
 
 
 [единичные файлы]
