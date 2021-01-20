@@ -9,3 +9,13 @@ ansible-playbook имя_файла.yml
 пинг
 ansible all -m ping
 
+
+[роли]
+
+role_deb_update обновление
+
+
+[единичные файлы]
+
+inst_pack_gui.yml установить ПО (gui system)
+

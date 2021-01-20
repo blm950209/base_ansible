@@ -7,4 +7,10 @@
         state: present
         name:
          - wireshark
+         - krdc
+         - wireshark
          - htop
+
+
+
+
