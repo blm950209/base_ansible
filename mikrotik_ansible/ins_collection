@@ -1,0 +1,2 @@
+# collection install
+ansible-galaxy collection install community.network
