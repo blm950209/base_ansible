@@ -9,7 +9,7 @@
          - wireshark
          - krdc
 #         - opera
-#         - chromium
+         - chromium-browser
          - virtualbox
          - vagrant
          - vlc
