@@ -8,15 +8,15 @@
         name:
          - wireshark
          - krdc
-         - opera
-         - chromium
+#         - opera
+#         - chromium
          - virtualbox
          - vagrant
          - vlc
          - simplescreenrecorder
          - libreoffice
          - remmina
-         - discord
+#         - discord
   
 
 
